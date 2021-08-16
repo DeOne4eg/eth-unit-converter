@@ -43,9 +43,9 @@ func TestUnit_NewEther(t *testing.T) {
 	eth10, _ := new(big.Int).SetString("10000000000000000000", 10)
 
 	tests := []struct {
-		name   string
-		args   args
-		want   *Unit
+		name string
+		args args
+		want *Unit
 	}{
 		{
 			name: "1 ether",
