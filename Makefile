@@ -1,2 +1,2 @@
 test:
-	go test --coverage
+	go test ./...
