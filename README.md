@@ -1,3 +1,14 @@
+![Github CI/CD](https://img.shields.io/github/workflow/status/DeOne4eg/eth-unit-converter/Tests)
+![Go Report](https://goreportcard.com/badge/github.com/DeOne4eg/eth-unit-converter)
+![Repository Top Language](https://img.shields.io/github/languages/top/DeOne4eg/eth-unit-converter)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/DeOne4eg/eth-unit-converter)
+![Github Repository Size](https://img.shields.io/github/repo-size/DeOne4eg/http-multiplexer)
+![Github Open Issues](https://img.shields.io/github/issues/DeOne4eg/eth-unit-converter)
+![Lines of code](https://img.shields.io/tokei/lines/github/DeOne4eg/eth-unit-converter)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/DeOne4eg/eth-unit-converter)
+![GitHub contributors](https://img.shields.io/github/contributors/DeOne4eg/eth-unit-converter)
+
 <img align="right" width="300px" src="./images/go.png">
 
 # Ethereum Unit Converter
