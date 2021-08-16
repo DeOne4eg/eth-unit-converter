@@ -15,6 +15,9 @@
 
 It is a simple library for conversion units between themselves. The library is written in Golang.
 
+## Install
+`go get github.com/DeOne4eg/eth-unit-converter`
+
 ## Usage
 
 ```
