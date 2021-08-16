@@ -18,6 +18,9 @@ It is a simple library for conversion units between themselves. The library is w
 ## Install
 `go get github.com/DeOne4eg/eth-unit-converter`
 
+## Docs
+- [Documentation](https://pkg.go.dev/github.com/DeOne4eg/eth-unit-converter)
+
 ## Usage
 
 ```
